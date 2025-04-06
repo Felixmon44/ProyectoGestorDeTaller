@@ -83,5 +83,8 @@ public class Faz {
 	    private void guardarDatos() {
 	         metodosclientes.guardarBaseDatos();
 	     }
+	    private void Reiniciar() {
+	    	
+	    }
 	    }
 	       
